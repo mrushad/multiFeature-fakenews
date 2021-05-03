@@ -7,6 +7,8 @@ Over the past few years, many methods of fake news detection have been tested. M
 In our method, we have used multiple features apart from the news title and text which we call article performance features (APF) to more accurately detect and classify fake news.<br><br>
 The following features have been used:<br>
 <img src="https://github.com/mrushad/MultiFeature_FakeNews/blob/c6deed6fcfd956e0a9fa9c9d83a7c52f3ee85137/Reports%20and%20Pictures/Pictures/Features.png" alt="alt text" width="655" height="271">
+<br>
+More information can be found <a href="https://github.com/mrushad/MultiFeature_FakeNews/blob/69141beffe5ad5e9442521a5efc2a8de2cd02033/Reports%20and%20Pictures/Report/ML-Project-Report.pdf">here</a>.
 
 ## Getting Started
 
