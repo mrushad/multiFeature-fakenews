@@ -4,7 +4,7 @@ Multiple Features based Fake News Detection using Article Performance
 ## What is it and Why?
 Over the past few years, many methods of fake news detection have been tested. Most of these methods rely on the content of the news title and article text to determine whether or not an article is genuine.
 
-In our method, we have used multiple features apart from the news title and text which we call article performance features (APF) to more accurately detect and classify fake news.
+In our method, we have used multiple features apart from the news title and text which we call article performance features (APF) to more accurately detect and classify fake news.<br>
 ![alt text](https://github.com/mrushad/MultiFeature_FakeNews/blob/1b6ac477c2e2aed110b2ce3409fb9e0ea44f3d51/Reports%20and%20Pictures/Pictures/ComparisionGraph.png)
 
 ## Getting Started
