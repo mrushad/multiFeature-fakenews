@@ -12,7 +12,8 @@ More information can be found <a href="https://github.com/mrushad/MultiFeature_F
 
 ## Getting Started
 
-The entire project can be executed as a python notebook, the dataset is provided in the repository.
+The entire project can be executed as a python notebook.<br>
+The dataset is provided in the repository.
 
 
 ## Built With
