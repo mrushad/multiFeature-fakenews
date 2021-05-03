@@ -21,3 +21,10 @@ The entire project can be executed as a python notebook, the dataset is provided
 * [keras](https://keras.io/) - For deep learning models
 * [numpy](https://numpy.org/) - For n-dimensional arrays
 * [pandas](https://pandas.pydata.org/) - For data manipulation
+
+## Results
+The results have been summarized in the table and graph below:<br><br>
+<img src="https://github.com/mrushad/MultiFeature_FakeNews/blob/d029bf611436ec24e11d28ba5af1906d5a6b3177/Reports%20and%20Pictures/Pictures/ComparisionTable.png" alt="alt text" width="762" height="242">
+<img src="https://github.com/mrushad/MultiFeature_FakeNews/blob/d029bf611436ec24e11d28ba5af1906d5a6b3177/Reports%20and%20Pictures/Pictures/ComparisionGraph.png" alt="alt text" width="570" height="288">
+<br>
+As we can see, the inclusion of APF gives an increase in accuracy in all models tested.
