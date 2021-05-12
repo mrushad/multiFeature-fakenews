@@ -18,6 +18,7 @@ The dataset is provided in the repository.
 
 ## Built With
 
+* [Python](https://www.python.org/) - The language used
 * [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) - The notebook used
 * [scikit-learn](https://scikit-learn.org/stable/) - For machine learning models and NLP
 * [nltk](https://www.nltk.org/) - The natural language processing library
